@@ -1,6 +1,5 @@
 ## set the path to the main folder of the working directory
-#install.packages("qdap")
-#library(qdap)
+
 wd <- "C:\\Users\\uszllv5\\Desktop\\Coursera\\Getting & Cleaning Data\\Week 4\\UCI HAR Dataset"
 
 setwd(wd)
