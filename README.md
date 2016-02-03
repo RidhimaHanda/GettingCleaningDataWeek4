@@ -1,6 +1,6 @@
 # GettingCleaningDataWeek4
 Programming assignment for Week 4
-# To Run the programming assignment, please change the path of the working directory
+# To run the programming assignment, please change the path of the working directory
 
 #Import and merge test and train datasets
   Imports the test and train datasets for the data, subjects and activities
